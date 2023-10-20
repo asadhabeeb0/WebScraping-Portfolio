@@ -1,0 +1,17 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "Web scrapping using node and cheerio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Asad Habeeb",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1"
+  }
+}
